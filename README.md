@@ -37,7 +37,7 @@
 ### 🔐 Android File Sharing App using Blockchain & IPFS  
 > Secure file sharing using Ethereum blockchain & IPFS  
 📄 Published in IJCRT  
-🔗 [Read the paper]([https://www.ijcrt.org/viewfull.php?&p_id=IJCRT21A6033](https://ijcrt.org/papers/IJCRT2105920.pdf))  
+🔗 [Read the paper]([https://www.ijcrt.org/viewfull.php?&p_id=IJCRT21A6033](https://ijcrt.org/papers/IJCRT2105920.pdf])  
 🔗 [Project Repo](#link-soon)
 
 ---
